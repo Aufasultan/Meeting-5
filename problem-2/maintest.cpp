@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
 using namespace std;
 
 int main()
@@ -19,7 +20,7 @@ int main()
         3, 4, 6, 8, 7
     };
 
-    if(expectedOutput==ans) cout<<"SUCCESSFULLY"<<'\n';
-    else cout<<"UNSUCCESSFULLY"<<'\n';
+    if(expectedOutput==ans) cout<<"SUCCESSFULLY"<<endl;
+    else cout<<"UNSUCCESSFULLY"<<endl;
     
 }
