@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-vector<string> v(101);
+vector<string> v(100);
 
 int main()
 {
